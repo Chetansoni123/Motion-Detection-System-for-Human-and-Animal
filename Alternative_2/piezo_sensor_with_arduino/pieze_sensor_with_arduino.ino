@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 #define RX 2
 #define TX 3
-int state = 0;
+int state = 0; 
 int ipin = 6;
 int LED = 8;
 String AP = "Nokia 1";       // AP NAME
