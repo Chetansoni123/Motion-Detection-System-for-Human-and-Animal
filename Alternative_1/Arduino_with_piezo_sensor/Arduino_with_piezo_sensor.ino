@@ -1,5 +1,5 @@
 
-int pirstate = 0;
+int pirstate = 0; 
 int piezoState = 0;
 int threshold =1000;
 int sensorOutput = A5;
